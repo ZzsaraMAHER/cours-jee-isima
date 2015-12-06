@@ -1,0 +1,31 @@
+package fr.isima.cours.jee.servlets;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Cette Servlet permet simplement d'afficher le texte Hello World !
+ * 
+ * <p>
+ * Dans le modèle <b>MVC</b>, le Servlet représente le contrôleur. Il appelle le
+ * modèle pour executer un service, et à partir des données retournées par le
+ * modèle renvoie vers la vue afin que les données soit affichées à
+ * l'utilisateur.
+ * </p>
+ * 
+ * @author Benjamin Kuchcik
+ *
+ */
+@WebServlet("/hello")
+public class HelloWorldServlet extends HttpServlet {
+
+    @Override
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+        resp.getWriter().write("Hello world !");
+    }
+}
