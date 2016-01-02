@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;genHeure&apos; in &apos;fr.isima.cours.jee.servlets.AfficherHeureCourante.doGet(...)&apos; to &apos;generateurHeureCourante&apos;&#x0D;&#x0A;- Original project: &apos;cours-jee-4-ajax&apos;&#x0D;&#x0A;- Original element: &apos;fr.isima.cours.jee.servlets.AfficherHeureCourante.doGet(HttpServletRequest, HttpServletResponse).genHeure&apos;&#x0D;&#x0A;- Renamed element: &apos;genHeure&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;genHeure&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;fr.isima.cours.jee.servlets{AfficherHeureCourante.java[AfficherHeureCourante~doGet~QHttpServletRequest;~QHttpServletResponse;@genHeure!601!671!631!638!QGenerateurHeureCourante;!67108880!false" name="generateurHeureCourante" references="true" stamp="1418830431974" version="1.0"/>
-</session>
