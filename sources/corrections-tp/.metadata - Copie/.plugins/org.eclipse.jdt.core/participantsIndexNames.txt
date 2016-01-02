@@ -1,0 +1,15 @@
+INDEX VERSION 1.127
+C:\Users\Benjamin\Documents\cours\onGitHub\cours-jee-isima-2014\sources\corrections-tp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4252673819.index
+\tp-jee-4-presentation-display-quote-v2\src
+C:\Users\Benjamin\Documents\cours\onGitHub\cours-jee-isima-2014\sources\corrections-tp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1537927139.index
+\tp-jee-3-presentation-display-quote-v1\src
+C:\Users\Benjamin\Documents\cours\onGitHub\cours-jee-isima-2014\sources\corrections-tp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2325864227.index
+\tp-jee-5-scope-display-quote-v3\src
+C:\Users\Benjamin\Documents\cours\onGitHub\cours-jee-isima-2014\sources\corrections-tp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1931514685.index
+\tp-jee-6-integration-continue-display-quote-v4\src\main\resources
+C:\Users\Benjamin\Documents\cours\onGitHub\cours-jee-isima-2014\sources\corrections-tp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1072426930.index
+\tp-jee-5-scope-display-quote-v3\src
+C:\Users\Benjamin\Documents\cours\onGitHub\cours-jee-isima-2014\sources\corrections-tp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\142416915.index
+\tp-jee-5-ajax-display-quote-v3\src
+C:\Users\Benjamin\Documents\cours\onGitHub\cours-jee-isima-2014\sources\corrections-tp\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3076129098.index
+\tp-jee-4-ajax-display-quote-v2\src

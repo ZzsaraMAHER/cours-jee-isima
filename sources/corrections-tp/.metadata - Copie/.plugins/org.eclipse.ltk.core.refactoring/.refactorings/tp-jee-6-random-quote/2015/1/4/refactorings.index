@@ -1,0 +1,6 @@
+1422178212485	Rename method 'setAuteur'
+1422178216338	Rename method 'setContenu'
+1422178219557	Rename field 'contenu'
+1422178228591	Rename field 'auteur'
+1422179863821	Rename local variable 'options'
+1422179928062	Extract method 'buildOptions'

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 6 resources" deleteContents="false" description="Delete 6 resources" element1="/tp-jee-2-filters" element2="/tp-jee-3-presentation-display-quote-v1" element3="/tp-jee-4-ajax-display-quote-v2" element4="/tp-jee-5-scope-display-quote-v3" element5="/tp-jee-6-integration-continue-display-quote-v4" element6="/tp-jee-6-random-quote" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="6" stamp="1451728288173"/>
+</session>
