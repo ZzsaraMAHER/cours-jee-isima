@@ -27,7 +27,7 @@ tmp/
 local.properties
 .classpath
 .loadpath
-.RemoteSystemsTempFiles/
+RemoteSystemsTempFiles/
 .recommenders/
 
 
