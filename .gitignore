@@ -27,7 +27,8 @@ tmp/
 local.properties
 .classpath
 .loadpath
-
+.RemoteSystemsTempFiles/
+.recommenders
 
 
 # External tool builders
