@@ -1,6 +1,0 @@
-1418985306788	Rename type 'NavigationButtons'
-1418985594632	Rename type 'Navigation'
-1418991943232	Extract method 'quotes'
-1418992986546	Rename method 'internalPosition'
-1418993744980	Rename local variable 'selectedQuote'
-1418994096547	Rename method 'externalPosition'
