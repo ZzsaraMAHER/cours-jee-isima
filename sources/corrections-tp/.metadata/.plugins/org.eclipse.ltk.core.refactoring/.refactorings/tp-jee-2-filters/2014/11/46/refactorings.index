@@ -1,0 +1,13 @@
+1416147776628	Move compilation unit
+1416147928515	Rename type 'CalculationServlet'
+1416155821599	Rename field 'CalculationDelegate'
+1416157213743	Rename type 'MandatoryMathsOperatorFilters'
+1416157220566	Rename local variable 'arg0'
+1416157228303	Rename local variable 'arg2'
+1416157678238	Rename package 'fr.tp.isima.calculation'
+1416157910858	Rename type 'Operator'
+1416157940054	Rename type 'StringOperators'
+1416158448298	Rename type 'StringServices'
+1416160431764	Rename local variable 'arg0'
+1416160437760	Rename local variable 'arg1'
+1416162046218	Rename field 'OperationCounter'

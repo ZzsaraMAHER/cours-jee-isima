@@ -1,0 +1,1 @@
+Repertoire standard où stocker les javascript

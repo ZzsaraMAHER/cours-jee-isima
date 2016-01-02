@@ -1,0 +1,1 @@
+Le repertoire META-INF contient toutes les informations generiques sur le projet

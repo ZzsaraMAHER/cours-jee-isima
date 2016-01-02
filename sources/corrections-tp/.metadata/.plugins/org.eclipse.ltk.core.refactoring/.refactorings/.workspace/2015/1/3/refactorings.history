@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;tp-jee-5-ajax-display-quote-v3&apos; to &apos;tp-jee-5-scope-display-quote-v3&apos;&#x0D;&#x0A;- Original element: &apos;tp-jee-5-ajax-display-quote-v3&apos;&#x0D;&#x0A;- Renamed element: &apos;tp-jee-5-ajax-display-quote-v3&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;tp-jee-5-ajax-display-quote-v3&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=tp-jee-5-ajax-display-quote-v3" name="tp-jee-5-scope-display-quote-v3" references="true" stamp="1421096955484" version="1.0"/>
+</session>

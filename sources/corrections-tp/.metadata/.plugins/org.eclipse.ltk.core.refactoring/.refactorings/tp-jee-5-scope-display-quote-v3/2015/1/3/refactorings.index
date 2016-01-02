@@ -1,0 +1,15 @@
+1421096792914	Extract method 'isSigningRequest'
+1421097451400	Extract method 'isAllowedCall'
+1421502720256	Delete element
+1421502748017	Rename resource 'apps-tabs.jsp7'
+1421503628664	Rename resource 'apps-tabs.jsp'
+1421504936311	Rename local variable 'trimmed'
+1421516057327	Rename local variable 'arg0'
+1421516340579	Rename field 'utilisateur'
+1421516357447	Rename method 'doIncrement'
+1421516663056	Rename local variable 'arg0'
+1421517116297	Extract method 'getUtilisateur'
+1421517175391	Rename field 'atomicInteger'
+1421517734391	Rename method 'visualiserDesCitations'
+1421575265038	Rename type 'DisplayMainMenu'
+1421576039651	Copy compilation unit
