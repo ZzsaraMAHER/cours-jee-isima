@@ -150,6 +150,7 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\cours\onGitHub\cours-jee-isima-2015\sources\cours\cours-jee-3-presenter-une-appli-web"/>
 			<item value="C:\cours\onGitHub\cours-jee-isima-2015\sources\cours\cours-jee-2-filters"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">

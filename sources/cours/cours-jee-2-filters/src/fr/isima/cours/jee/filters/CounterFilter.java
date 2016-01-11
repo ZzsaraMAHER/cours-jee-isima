@@ -1,6 +1,7 @@
 package fr.isima.cours.jee.filters;
 
 import java.io.IOException;
+import java.util.concurrent.atomic.AtomicLong;
 
 import javax.servlet.Filter;
 import javax.servlet.FilterChain;
@@ -24,18 +25,18 @@ import javax.servlet.annotation.WebFilter;
 @WebFilter("/*")
 public class CounterFilter implements Filter {
 
-    private long counter;
+    private AtomicLong counter;
 
     @Override
     public void doFilter(ServletRequest req, ServletResponse rep, FilterChain chain) throws IOException, ServletException {
-        counter++;
-        System.out.println("Nombre de requete " + counter);
+
+        System.out.println("Nombre de requete " + counter.incrementAndGet());
         chain.doFilter(req, rep);
     }
 
     @Override
     public void init(FilterConfig arg0) throws ServletException {
-        counter = 0;
+        counter = new AtomicLong(0);
     }
 
     @Override

@@ -34,6 +34,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\cours\onGitHub\cours-jee-isima-2015\sources\corrections-tp\tp-jee-2-filters"/>
 			<item value="C:\Users\Benjamin\Documents\cours\onGitHub\cours-jee-isima-2014\sources\corrections-tp\tp-jee-6-integration-continue-display-quote-v4"/>
 		</list>
 		<list key="projectNameTemplate">

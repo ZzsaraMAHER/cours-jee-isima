@@ -15,9 +15,7 @@ public class TestCharge {
         // Cette instruction est l'équivlant d'un for int i = 0; i< max en java8
         // Pour chaque element on ajoute un element
         IntStream.range(0, nombreAppel).forEach((range) -> tasks.add(createCallHi(range)));
-        for (int i = 0; i < nombreAppel; i++) {
-            tasks.add(createCallHi(i));
-        }
+
         // Cette instruction est un raccourci pour executer dans un thread
         // chaque fonction. Le gain en de code est très important
         tasks.parallelStream().forEach(e -> e.run());
