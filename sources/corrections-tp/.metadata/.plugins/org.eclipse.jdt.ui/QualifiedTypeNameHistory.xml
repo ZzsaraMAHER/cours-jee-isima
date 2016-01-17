@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="javax.json.JsonArrayBuilder"/>
-<fullyQualifiedTypeName name="javax.json.JsonObjectBuilder"/>
-<fullyQualifiedTypeName name="javax.servlet.annotation.WebFilter"/>
-<fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
-<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
-<fullyQualifiedTypeName name="java.util.Map"/>
-<fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
 <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentMap"/>
 <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentHashMap"/>
-<fullyQualifiedTypeName name="fr.tp.isima.business.Quotes"/>
 <fullyQualifiedTypeName name="java.io.Closeable"/>
 <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
 <fullyQualifiedTypeName name="java.util.concurrent.atomic.AtomicInteger"/>
@@ -25,7 +17,6 @@
 <fullyQualifiedTypeName name="fr.tp.isima.servlet.AbstractDisplayQuoteServlet"/>
 <fullyQualifiedTypeName name="fr.tp.isima.servlet.QuoteViewBean"/>
 <fullyQualifiedTypeName name="fr.tp.isima.business.Utilisateurs"/>
-<fullyQualifiedTypeName name="fr.tp.isima.business.Quote"/>
 <fullyQualifiedTypeName name="java.util.concurrent.ThreadLocalRandom"/>
 <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
 <fullyQualifiedTypeName name="fr.tp.isima.servlet.AbstractWithSignServlet"/>
@@ -60,4 +51,13 @@
 <fullyQualifiedTypeName name="fr.tp.isima.servlets.MoinsServlet"/>
 <fullyQualifiedTypeName name="fr.tp.isima.servlets.PlusServlet"/>
 <fullyQualifiedTypeName name="fr.tp.isima.servlets.ProduitServlet"/>
+<fullyQualifiedTypeName name="fr.tp.isima.business.Quotes"/>
+<fullyQualifiedTypeName name="java.util.Objects"/>
+<fullyQualifiedTypeName name="fr.tp.isima.business.Quote"/>
+<fullyQualifiedTypeName name="fr.tp.isima.business.NavigationDirection"/>
+<fullyQualifiedTypeName name="fr.tp.isima.business.Direction.DirectionBuilder"/>
+<fullyQualifiedTypeName name="fr.tp.isima.business.Direction"/>
+<fullyQualifiedTypeName name="fr.tp.isima.business.SelectedQuote"/>
+<fullyQualifiedTypeName name="fr.tp.isima.business.DirectionAvailable"/>
+<fullyQualifiedTypeName name="fr.tp.isima.business.IndexOfDirection"/>
 </qualifiedTypeNameHistroy>

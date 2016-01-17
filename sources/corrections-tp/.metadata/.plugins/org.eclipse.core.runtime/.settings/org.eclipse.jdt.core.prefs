@@ -20,3 +20,4 @@ org.eclipse.jdt.core.formatter.indentation.size=8
 org.eclipse.jdt.core.formatter.lineSplit=160
 org.eclipse.jdt.core.formatter.tabulation.char=space
 org.eclipse.jdt.core.formatter.use_tabs_only_for_leading_indentations=true
+org.eclipse.jdt.core.timeoutForParameterNameFromAttachedJavadoc=50
