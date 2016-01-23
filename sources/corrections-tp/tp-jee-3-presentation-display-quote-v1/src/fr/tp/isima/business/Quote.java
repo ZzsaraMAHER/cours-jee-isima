@@ -16,10 +16,16 @@ public class Quote {
 
     private final String content;
 
+    private final boolean defaultQuote;
+
     public Quote(String author, String content) {
-        super();
+        this(author, content, false);
+    }
+
+    Quote(String author, String content, boolean defaultQuote) {
         this.author = author;
         this.content = content;
+        this.defaultQuote = defaultQuote;
     }
 
     public String getAuthor() {
@@ -28,6 +34,10 @@ public class Quote {
 
     public String getContent() {
         return content;
+    }
+
+    boolean isDefaultQuote() {
+        return defaultQuote;
     }
 
 }

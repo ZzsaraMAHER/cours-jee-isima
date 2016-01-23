@@ -57,7 +57,7 @@ public class Quotes {
      * @return
      */
     private Quote createDefaultQuote(int numero) {
-        return new Quote("L'auteur de l'application", "Aucune citation n'existe a ce numero " + numero);
+        return new Quote("L'auteur de l'application", "Aucune citation n'existe a ce numero " + numero, true);
     }
 
     /**
@@ -102,6 +102,10 @@ public class Quotes {
 
     public int nextIndex(Quote q) {
         return externalPosition(q) + 1;
+    }
+
+    public boolean hasNotLast(Quote q) {
+        return q.isDefaultQuote() || isLast(q);
     }
 
     public int firstIndex() {

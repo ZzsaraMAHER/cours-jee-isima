@@ -59,7 +59,7 @@
 					</c:otherwise>
 				</c:choose>
 				<c:choose>
-					<c:when test="${quote.last}">
+					<c:when test="${quote.hasNotLastQuote}">
 						<a role="button" class="btn btn-lg btn-success disabled">Derniere
 							citation</a>
 					</c:when>

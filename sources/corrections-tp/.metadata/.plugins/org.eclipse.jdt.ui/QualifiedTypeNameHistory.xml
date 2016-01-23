@@ -53,11 +53,11 @@
 <fullyQualifiedTypeName name="fr.tp.isima.servlets.ProduitServlet"/>
 <fullyQualifiedTypeName name="fr.tp.isima.business.Quotes"/>
 <fullyQualifiedTypeName name="java.util.Objects"/>
-<fullyQualifiedTypeName name="fr.tp.isima.business.Quote"/>
 <fullyQualifiedTypeName name="fr.tp.isima.business.NavigationDirection"/>
 <fullyQualifiedTypeName name="fr.tp.isima.business.Direction.DirectionBuilder"/>
 <fullyQualifiedTypeName name="fr.tp.isima.business.Direction"/>
 <fullyQualifiedTypeName name="fr.tp.isima.business.SelectedQuote"/>
 <fullyQualifiedTypeName name="fr.tp.isima.business.DirectionAvailable"/>
 <fullyQualifiedTypeName name="fr.tp.isima.business.IndexOfDirection"/>
+<fullyQualifiedTypeName name="fr.tp.isima.business.Quote"/>
 </qualifiedTypeNameHistroy>

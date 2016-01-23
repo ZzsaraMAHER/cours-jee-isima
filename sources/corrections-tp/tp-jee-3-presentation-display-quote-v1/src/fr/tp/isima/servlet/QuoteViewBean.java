@@ -50,8 +50,8 @@ public class QuoteViewBean {
         return quotes.isFirst(quote);
     }
 
-    public boolean isLast() {
-        return quotes.isLast(quote);
+    public boolean isHasNotLastQuote() {
+        return quotes.hasNotLast(quote);
     }
 
     public int getPreviousIndex() {

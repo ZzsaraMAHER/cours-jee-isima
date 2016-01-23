@@ -23,7 +23,7 @@ public class DisplayQuoteServlet extends HttpServlet {
         final String quoteNumberUnparsed = req.getParameter("quoteNumber");
 
         req.setAttribute("quote", createQuoteViewBean(quoteNumberUnparsed));
-        req.getRequestDispatcher("/quote.jsp").forward(req, resp);
+        req.getRequestDispatcher("/WEB-INF/quote.jsp").forward(req, resp);
     }
 
     private QuoteViewBean createQuoteViewBean(String quoteNumberUnparsed) {
