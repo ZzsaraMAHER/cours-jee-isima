@@ -20,7 +20,6 @@
 <fullyQualifiedTypeName name="java.util.concurrent.ThreadLocalRandom"/>
 <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
 <fullyQualifiedTypeName name="fr.tp.isima.servlet.AbstractWithSignServlet"/>
-<fullyQualifiedTypeName name="fr.tp.isima.business.Utilisateur"/>
 <fullyQualifiedTypeName name="fr.tp.isima.business.SessionUtilisation"/>
 <fullyQualifiedTypeName name="java.io.InputStream"/>
 <fullyQualifiedTypeName name="java.lang.Exception"/>
@@ -60,4 +59,5 @@
 <fullyQualifiedTypeName name="fr.tp.isima.business.DirectionAvailable"/>
 <fullyQualifiedTypeName name="fr.tp.isima.business.IndexOfDirection"/>
 <fullyQualifiedTypeName name="fr.tp.isima.business.Quote"/>
+<fullyQualifiedTypeName name="fr.tp.isima.business.Utilisateur"/>
 </qualifiedTypeNameHistroy>
