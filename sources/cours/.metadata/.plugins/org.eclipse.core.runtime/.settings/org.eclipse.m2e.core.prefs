@@ -1,6 +1,6 @@
 eclipse.m2.defaultRuntime=apache-maven-3.2.5
 eclipse.m2.runtimes=apache-maven-3.2.5
-eclipse.m2.runtimesNodes/apache-maven-3.2.5/location=C\:\\NoInstallersProgs\\apache-maven-3.2.5
+eclipse.m2.runtimesNodes/apache-maven-3.2.5/location=C\:\\dev\\apache-maven-3.3.9
 eclipse.m2.runtimesNodes/apache-maven-3.2.5/type=EXTERNAL
 eclipse.m2.userSettingsFile=C\:\\Users\\Benjamin\\.m2\\settings-vide.xml
 eclipse.preferences.version=1

@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
 <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentMap"/>
 <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentHashMap"/>
 <fullyQualifiedTypeName name="java.io.Closeable"/>
@@ -16,11 +14,9 @@
 <fullyQualifiedTypeName name="javax.servlet.annotation.WebListener"/>
 <fullyQualifiedTypeName name="fr.tp.isima.servlet.AbstractDisplayQuoteServlet"/>
 <fullyQualifiedTypeName name="fr.tp.isima.servlet.QuoteViewBean"/>
-<fullyQualifiedTypeName name="fr.tp.isima.business.Utilisateurs"/>
 <fullyQualifiedTypeName name="java.util.concurrent.ThreadLocalRandom"/>
 <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
 <fullyQualifiedTypeName name="fr.tp.isima.servlet.AbstractWithSignServlet"/>
-<fullyQualifiedTypeName name="fr.tp.isima.business.SessionUtilisation"/>
 <fullyQualifiedTypeName name="java.io.InputStream"/>
 <fullyQualifiedTypeName name="java.lang.Exception"/>
 <fullyQualifiedTypeName name="com.google.gson.Gson"/>
@@ -59,5 +55,9 @@
 <fullyQualifiedTypeName name="fr.tp.isima.business.DirectionAvailable"/>
 <fullyQualifiedTypeName name="fr.tp.isima.business.IndexOfDirection"/>
 <fullyQualifiedTypeName name="fr.tp.isima.business.Quote"/>
+<fullyQualifiedTypeName name="javax.websocket.Session"/>
+<fullyQualifiedTypeName name="javax.rmi.CORBA.Util"/>
+<fullyQualifiedTypeName name="fr.tp.isima.business.SessionUtilisation"/>
 <fullyQualifiedTypeName name="fr.tp.isima.business.Utilisateur"/>
+<fullyQualifiedTypeName name="fr.tp.isima.business.Utilisateurs"/>
 </qualifiedTypeNameHistroy>
