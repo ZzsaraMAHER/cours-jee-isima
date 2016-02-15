@@ -1,0 +1,11 @@
+1454012167150	Rename type 'ControlLoginFilter'
+1454012336214	Rename type 'LoginServlet'
+1454012386306	Rename type 'SigninServlet'
+1454012406541	Rename resource 'signin.jsp'
+1454012431424	Rename type 'MustSigninFilter'
+1454012520382	Delete elements
+1454012539553	Delete element
+1454014729077	Rename method 'isSigningRequest'
+1454014736791	Rename method 'isConnectedUser'
+1454014762998	Rename method 'isStaticRessource'
+1454014787513	Inline method 'isAllowedCall'

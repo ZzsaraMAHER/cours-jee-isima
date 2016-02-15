@@ -1,0 +1,5 @@
+INDEX VERSION 1.127
+C:\Users\Benjamin\Documents\cours\onGitHub\cours-jee-isima-2014\sources\exemples\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2190318102.index
+\exemple-crud-jpa2\src\main\java
+C:\Users\Benjamin\Documents\cours\onGitHub\cours-jee-isima-2014\sources\exemples\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2647836940.index
+\exemple-crud-jpa2\src\main\java

@@ -1,0 +1,6 @@
+1452370283673	Extract constant 'EMPTY'
+1452370791649	Extract method 'checkPattern'
+1452372009566	Rename method 'withAandBasParameterName'
+1452372031680	Extract constant 'DEFAULT_LEFT_PARAMETER_NAME'
+1452372048908	Extract constant 'DEFAULT_RIGHT_PARAMETER_NAME'
+1452372173676	Rename method 'addOperation'

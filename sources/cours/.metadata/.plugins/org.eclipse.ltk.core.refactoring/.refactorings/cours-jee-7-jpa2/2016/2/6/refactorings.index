@@ -1,0 +1,7 @@
+1455362961333	Rename local variable 'string'
+1455362965746	Rename local variable 'string2'
+1455367484051	Rename method 'newBuilder'
+1455367521725	Rename type 'ErrorFieldBuilder'
+1455367540919	Rename method 'withUniqueContraintException'
+1455368895999	Rename method 'success'
+1455368900500	Rename method 'successForm7'

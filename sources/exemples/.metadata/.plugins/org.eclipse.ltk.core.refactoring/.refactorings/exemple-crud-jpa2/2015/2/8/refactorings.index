@@ -1,0 +1,44 @@
+1424116464636	Rename resource 'saveArticle.jsp'
+1424116857077	Extract constant 'THE_FIELDS_INFO_MUST_BE_ONLY_USED_WITH_DIRECT_FIELD_REFERENCE'
+1424116880909	Rename type 'FieldInfo'
+1424116949431	Rename package 'fr.cours.isima.business.utils'
+1424117063389	Rename type 'UnsupportedOperationHashMap'
+1424117096000	Rename type 'AbstractUnsupportedOperationHashMap'
+1424118171564	Rename field 'infos'
+1424118973148	Move compilation unit
+1424118978676	Move compilation unit
+1424118983356	Move compilation unit
+1424118986382	Move compilation unit
+1424118990126	Move compilation unit
+1424119243757	Move compilation unit
+1424119276225	Delete elements
+1424119326906	Rename type 'FieldsInfos'
+1424119800661	Rename package 'fr.cours.isima.presentation'
+1424120382035	Move compilation unit
+1424120394440	Rename type 'Page'
+1424121681032	Rename local variable 'articleViewBean'
+1424121707749	Delete elements
+1424121885877	Delete element
+1424121962313	Rename type 'UpdateArticleServlet'
+1424122088359	Rename type 'JspPage'
+1424122308424	Rename type 'JspPageBuilder'
+1424122665998	Delete element
+1424122672476	Move compilation unit
+1424122695457	Rename package 'fr.cours.isima.presentation2'
+1424122758116	Rename method 'redirectOnList'
+1424123919278	Rename method 'getAvailableCategories'
+1424203361462	Delete element
+1424204815828	Rename type 'Container'
+1424204821439	Rename type 'ApplicationsServices'
+1424204879758	Move compilation unit
+1424205313260	Delete element
+1424205466042	Move compilation unit
+1424205483976	Rename type 'ObjectsInitialization'
+1424205708508	Move compilation unit
+1424205711129	Delete element
+1424205892360	Rename local variable 'entityManager'
+1424205899272	Rename local variable 'entityManager'
+1424472767782	Rename type 'Category'
+1424472773815	Rename type 'CategoryBean'
+1424472778606	Rename type 'CategoryDao'
+1424472809204	Rename type 'CategoryViewBean'

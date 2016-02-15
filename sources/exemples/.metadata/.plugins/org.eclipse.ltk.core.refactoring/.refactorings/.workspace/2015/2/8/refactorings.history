@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;exemple-crud-jpa2&apos;" deleteContents="false" description="Delete resource &apos;exemple-crud-jpa2&apos;" element1="/exemple-crud-jpa2" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1424507002088"/>
+</session>
