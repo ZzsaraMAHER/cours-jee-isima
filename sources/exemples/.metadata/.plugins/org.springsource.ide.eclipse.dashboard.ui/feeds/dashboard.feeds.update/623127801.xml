@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 	<channel>
-		<title>SpringSource Tool Suites Updates</title>
-		<link>http://www.springsource.com/products/sts</link>
+		<title>Spring Tool Suites Updates</title>
+		<link>https://spring.io/tools</link>
 		<description>This feeds imforms about important updates relevant to users of STS.</description>
 		<generator>Feeder 2.0.7(1195) http://reinventedsoftware.com/feeder/</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<language>en-us</language>
 		<managingEditor>sts@springsource.com</managingEditor>
-		<pubDate>Fri, 27 Nov 2015 10:38:33 +0100</pubDate>
-		<lastBuildDate>Fri, 27 Nov 2015 10:38:33 +0100</lastBuildDate>
+		<pubDate>Tue, 02 Aug 2016 10:38:33 +0100</pubDate>
+		<lastBuildDate>Tue, 02 Aug 2016 10:38:33 +0100</lastBuildDate>
 		<atom:link href="http://dist.springsource.com.s3.amazonaws.com/release/STS/doc/updates.xml" rel="self" type="application/rss+xml"/>
 
 <!--		<item>
@@ -40,27 +40,27 @@
 -->
 
 		<item>
-            <title>Thanks for installing STS 3.7.2</title>
+            <title>Thanks for installing STS 3.8.1</title>
             <link>http://spring.io/tools</link>
             <description><![CDATA[<form><p><a href="http://pivotal.io">Pivotal</a> has released an update to Spring Tool Suite (STS), the best Eclipse-powered development environment for building Spring powered enterprise application.</p>
 		<p>Please review the following documents:</p>
-		<li bindent="3"><a href="http://docs.spring.io/sts/nan/v372/NewAndNoteworthy.html">3.7.2 New &amp; Noteworthy</a></li><p></p></form>]]></description>
-            <pubDate>Fri, 27 Nov 2015 12:13:33 +0100</pubDate>
-			<category>version=[3.7.2.201511260840-RELEASE,3.7.3)</category>
+		<li bindent="3"><a href="http://docs.spring.io/sts/nan/v381/NewAndNoteworthy.html">3.8.1 New &amp; Noteworthy</a></li><p></p></form>]]></description>
+            <pubDate>Tue, 02 Aug 2016 12:13:33 +0100</pubDate>
+			<category>version=[3.8.1.201607290723-RELEASE,3.9.0)</category>
 		<!--            <category>severity=important</category>-->
-	        <guid isPermaLink="false">thanks-for-installing-sts-372</guid>
+	        <guid isPermaLink="false">thanks-for-installing-sts-381</guid>
 		</item>
 		
 		<item>
-			<title>STS 3.7.2 has been released</title>
+			<title>STS 3.8.1 has been released</title>
 			<link>http://spring.io/tools</link>
 			<description><![CDATA[<form><p><a href="http://pivotal.io">Pivotal</a> has released an update to Spring Tool Suite (STS), the best Eclipse-powered development environment for building Spring powered enterprise application.</p><p>It is recommend to update as soon as possible.</p>
 		<p>Please review the following documents:</p>
-		<li bindent="3"><a href="http://docs.spring.io/sts/nan/v372/NewAndNoteworthy.html">3.7.2 New &amp; Noteworthy</a></li><p></p></form>]]></description>
-        	<pubDate>Fri, 27 Nov 2015 12:12:33 +0100</pubDate>
-			<category>version=[0,3.7.2.201511260840-RELEASE)</category>
+		<li bindent="3"><a href="http://docs.spring.io/sts/nan/v381/NewAndNoteworthy.html">3.8.1 New &amp; Noteworthy</a></li><p></p></form>]]></description>
+        	<pubDate>TUe, 02 Aug 2016 12:12:33 +0100</pubDate>
+			<category>version=[0,3.8.1.201607290723-RELEASE)</category>
 			<category>severity=important</category>
-			<guid isPermaLink="false">sts-372-released</guid>
+			<guid isPermaLink="false">sts-381-released</guid>
 		</item>
 
 <!--
@@ -89,14 +89,14 @@
 		</item>
 -->
 		<item>
-			<title>Cloud Foundry Eclipse 1.8.3 released</title>
-			<link>http://www.cloudfoundry.com</link>
-            <description><![CDATA[<form><p><a href="http://pivotal.io">Pivotal</a> has released Cloud Foundry Eclipse version 1.8.3. New additions include improved support for Spring Boot deployment, "Link with Project/Unlink Project" feature changes, automatic detection of older JRE in STS/Eclipse (Java 7 is a minimum requirement to run Cloud Foundry Eclipse), and various bug fixes.</p></form>]]></description>
-			<pubDate>Mon, 29 Jun 2015 10:38:33 +0100</pubDate>
+			<title>Cloud Foundry Tools for Eclipse 1.0.1.M1 released</title>
+			<link>http://www.eclipse.org/cft</link>
+            <description><![CDATA[<form><p><a href="http://www.eclipse.org">Eclipse</a> has released Cloud Foundry Tools for Eclipse version 1.0.1.M1. This marks the first milestone release after the initial Eclipse Neon release and contains important bug fixes.</p></form>]]></description>
+			<pubDate>Wed, 06 Jul 2016 10:38:33 +0100</pubDate>
 <!--			<category>version=2.9.0</category> -->
 <!--			<category>severity=important</category> -->
-			<category>bundle=!org.cloudfoundry.ide.eclipse.feature.group</category>
-			<guid isPermaLink="false">cloud-foundry-integration-183-released</guid>
+			<category>bundle=!org.eclipse.cft.server.core.feature.feature.group</category>
+			<guid isPermaLink="false">cloud-foundry-tools-101m1-released</guid>
 		</item>
 
 <!--

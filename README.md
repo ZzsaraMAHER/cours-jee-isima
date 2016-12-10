@@ -1,11 +1,11 @@
-cours-jee-isima-2015
+cours-jee-isima
 ====================
 
-Le repository pour mon cours de JEE 2015/2016
+Cours JEE F5 pour l'année 2016/2017
 
 Il contient :
 - les supports au format PDF ;
 - les sujets de TP au format PDF ;
 - les exemples du cours ;
-- les documentations annexes (utiles mais non sujette à interrogation lors des examens) ;
-- les corrections de TP (à partir du cours N+1).
+- les documentations annexes (utiles mais non sujettes à interrogation lors des examens) ;
+- les corrections de TP ;
